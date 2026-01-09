@@ -18,4 +18,4 @@ Repositório com projetos em Java voltados aos fundamentos da linguagem, lógica
 
 ## Tecnologias
 - Java
-- IDE: IntelliJ / Eclipse
+- IDE: IntelliJ
