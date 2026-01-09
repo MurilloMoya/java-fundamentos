@@ -9,7 +9,7 @@ Repositório com projetos em Java voltados aos fundamentos da linguagem, lógica
 - Resolução de problemas com Java
 
 ## Projetos
-- Calculadora com menu interativo
+- Calculadora 
 - Sistema de cálculo de frete (Transportadora)
 - Relatório de vendas
 - Relatório de recursos humanos
