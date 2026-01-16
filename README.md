@@ -28,7 +28,6 @@ aulas, como prática adicional de lógica e manipulação de dados.
 - Sistema de cálculo de frete (Transportadora)  
 - Relatório de vendas  
 - Relatório de recursos humanos  
-- Controle de chamados  
 - Sistema de pontuação (F1)  
 - Jogo da Adivinhação  
 
