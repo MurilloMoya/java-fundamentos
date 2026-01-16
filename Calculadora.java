@@ -60,14 +60,16 @@ public class Calculadora {
     }
 
     public static void divisao(int n1, int n2) {
-        if (n1 == 0 || n2 == 0) {
+        if (n2 == 0) {
             System.out.println("Não é possível dividir por zero");
         } else {
             System.out.println("Resultado: " + (n1 / n2));
         }
 
+
     }
 }
+
 
 
 
